@@ -64,4 +64,4 @@ def preprocess_reference_video(video_path: str, exercise_id: str):
     print(f"[INFO] Reference video processed and saved with attempt_id: {attempt_id}")
 
 
-preprocess_reference_video("assets/yoga1_reference.mp4", "yoga1")
+preprocess_reference_video("assets/squat_reference.mp4", "squat")
