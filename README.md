@@ -1,4 +1,4 @@
 # AI-Fitness-Tracker
-This project was created to evaluate the accuracy of physical exercises in real time.
+This project was created to evaluate the accuracy of physical exercises.
 
-Link to a video demonstration of the service: https://disk.yandex.ru/d/cjA81DNcxdpLfQ 
+Link to the video demonstration of the service and presentation materials: https://disk.yandex.ru/d/cqYpnYfIoonObw 
